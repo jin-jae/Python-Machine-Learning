@@ -1,0 +1,8 @@
+# Mac OS
+.DS_Store
+
+# IDE
+.idea
+
+# this file can be downloaded from https://www.kaggle.com/c/titanic/data
+train.csv
