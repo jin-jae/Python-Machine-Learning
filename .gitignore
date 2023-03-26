@@ -6,3 +6,6 @@
 
 # this file can be downloaded from https://www.kaggle.com/c/titanic/data
 train.csv
+
+#this file can be downloaded from https://www.kaggle.com/uciml/pima-indians-diabetes-database
+diabetes.csv
