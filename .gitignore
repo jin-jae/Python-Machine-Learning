@@ -7,5 +7,14 @@
 # this file can be downloaded from https://www.kaggle.com/c/titanic/data
 train.csv
 
-#this file can be downloaded from https://www.kaggle.com/uciml/pima-indians-diabetes-database
+# this file can be downloaded from https://www.kaggle.com/uciml/pima-indians-diabetes-database
 diabetes.csv
+
+# this folder can be downloaded from https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+human_activity
+
+# this file can be downloaded from https://www.kaggle.com/competitions/santander-customer-satisfaction/data
+train_santander.csv
+
+# this file can be downloaded from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+creditcard.csv
