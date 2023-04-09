@@ -29,3 +29,15 @@ pca_credit_card.xls
 
 # this file can be downloaded from https://archive.ics.uci.edu/ml/datasets/online+retail
 online_retail.xlsx
+
+# this file can be downloaded from https://www.kaggle.com/competitions/word2vec-nlp-tutorial
+labeledTrainData.tsv
+
+# this file can be downloaded from https://archive.ics.uci.edu/ml/datasets/Opinosis+Opinion+%26frasl%3B+Review
+OpinosisDataset1.0
+
+# this file can be downloaded from https://github.com/e9t/nsmc
+ratings_train.txt
+ratings_test.txt
+
+mercari_train.tsv
