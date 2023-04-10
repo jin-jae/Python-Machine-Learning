@@ -40,4 +40,11 @@ OpinosisDataset1.0
 ratings_train.txt
 ratings_test.txt
 
+# this file can be downloaded from https://www.kaggle.com/c/mercari-price-suggestion-challenge
 mercari_train.tsv
+
+# this file can be downloaded from https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+tmdb_5000_movies.csv
+
+# this file can be downloaded from https://grouplens.org/datasets/movielens/latest/
+ml-latest-small
