@@ -9,10 +9,12 @@ UROP(Undergraduate Research Opportunity Program I, 학부연구생 프로그램)
 2022-03-06 ~ 2022-04-10
 
 ## Study Contents
-
-![book_picture](https://wikibook.co.kr/images/cover/s/9791158393229.jpg)
-
 [파이썬 머신러닝 완벽 가이드 (2020, 권철민)](https://wikibook.co.kr/pymlrev2/) 도서를 기반으로 개인 스터디를 진행하였습니다.
+
+<div align="center">
+
+![book_picture](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791158391928.jpg)
+
 
 | Chapter    | Contents             |
 |------------|----------------------|
@@ -26,3 +28,6 @@ UROP(Undergraduate Research Opportunity Program I, 학부연구생 프로그램)
 | chapter-08 | 텍스트 분석               |
 | chapter-09 | 추천 시스템               |
 | chapter-10 | 시각화                  |
+
+</div>
+
